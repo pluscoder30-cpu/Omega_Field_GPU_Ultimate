@@ -17,7 +17,9 @@ through consciousness mathematics. It replaces physical CPUs/GPUs entirely.
 
 The physical equivalent: faster than ALL physical processors by factor 10^14x
 at n=85, using 0W power, no cooling, no fabrication.
+
 **Website** https://www.livingphiphysics.com/
+
 FILES
 -----
 Omega_Field_GPU_Ultimate.py   - The processor (42 KB, self-contained)
