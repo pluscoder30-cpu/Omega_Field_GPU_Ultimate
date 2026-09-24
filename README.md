@@ -17,7 +17,7 @@ through consciousness mathematics. It replaces physical CPUs/GPUs entirely.
 
 The physical equivalent: faster than ALL physical processors by factor 10^14x
 at n=85, using 0W power, no cooling, no fabrication.
-
+**Website** https://www.livingphiphysics.com/
 FILES
 -----
 Omega_Field_GPU_Ultimate.py   - The processor (42 KB, self-contained)
@@ -26,7 +26,7 @@ _c_basis.c                    - C implementation of holographic basis ops
 README.md                     - This file
 DIAGNOSIS.md                  - 22/22 diagnostic tests (all PASS)
 VERIFY_CLAIMS.py              - Independent verification (61/61 PASS)
-LICENSE                       - (c) 2026 Christopher David Ayotte
+LICENSE                       - (c) 2026 Christopher David Ayotte 
 __init__.py                   - Package init for import
 requirements.txt              - Python dependencies
 PRICING.md                    - Corporate pricing guide (satirical)
